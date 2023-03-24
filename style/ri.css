@@ -36,6 +36,12 @@ body {
     width: 80vw;
 }
 
+.divider {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
 .quote {
     margin: 2.5%;
     font-style: italic;
